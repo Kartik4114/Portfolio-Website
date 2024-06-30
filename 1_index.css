@@ -471,19 +471,19 @@ border: none;
 }
 
 #project1{
-    background-image: url(/images/project/Project2.png);
+    background-image: url(./images/project/Project2.png);
     margin-right: 120px;
 }
 #project2{
-    background-image: url(/images/project/sports-tools_53876-138077.avif);
+    background-image: url(./images/project/sports-tools_53876-138077.avif);
     margin-left: 120px;
 }
 #project3{
     margin-right: 120px;
-    background-image: url(/images/project/Project3.png);
+    background-image: url(./images/project/Project3.png);
 }
 #project4{
-    background-image: url(/images/project/library.avif);
+    background-image: url(./images/project/library.avif);
     margin-left: 120px;
 }
 
