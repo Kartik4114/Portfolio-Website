@@ -9,7 +9,8 @@ function sendEmail(){
 
     const bodyMessage=`Full Name: ${fullName.value}<br>
                         Email: ${email.value}<br>
-                        Subject: ${subject.value}<br>
+                        Subject: ${subject.value}<br><br>
+    
                         Message: ${mess.value}`;
     Email.send({
         Host : "smtp.elasticemail.com",
